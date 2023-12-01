@@ -1,0 +1,12 @@
+.bus_reservation_container{
+    margin: 50px;
+
+}
+.bus_content{
+
+    display: flex;
+}
+.bus_info{
+    border-radius: 10px;
+    background: #DDE5B6;
+}

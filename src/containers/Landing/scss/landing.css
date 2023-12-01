@@ -1,0 +1,49 @@
+
+.landing_wrapper{
+    margin-top: 70px;
+    width: 100%;
+    background-image: url("/Users/admin/module1/src/Icons/bus_img.svg") ;
+
+    background-repeat: no-repeat;
+    height:700px;
+}
+.landing_content{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-right: 50px;
+    line-height: 1px;
+
+}
+.landing_content>h1{
+    text-align: right;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 400;
+}
+.landing_statistic{
+    font-size: 20px;
+    margin-top: 50px;
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+}
+
+
+.footer{
+    background-image: url("/Users/admin/module1/src/Icons/Ð_Ð½Ñ_Ð¼Ð¾Ðº_ÐµÐºÑ_Ð°Ð½Ð°_2023-11-14_Ð¾_14.22 1.svg" );
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    height: 400px;
+
+
+
+}
+.buses_button{
+    background: #ADC178;
+    border: none;
+    width: 328px;
+    height: 41px;
+    margin-top: 40px;
+    font-size: 20px;
+}

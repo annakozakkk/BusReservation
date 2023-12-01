@@ -1,0 +1,16 @@
+
+.seat{
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px ;
+    width:40px;
+    height: 40px;
+    border: 2px solid #6C584C;
+    color:#6C584C ;
+    background: #F0EAD2;
+}
+
+
+.clicked {
+    background: #696969; /* Set your desired background color for reserved seats */
+}
